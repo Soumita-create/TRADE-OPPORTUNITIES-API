@@ -52,8 +52,6 @@ Python
 
 Google Gemini API
 
-DuckDuckGo Search
-
 SlowAPI (Rate Limiting)
 
 JWT Authentication
