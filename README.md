@@ -12,8 +12,6 @@ FastAPI-based REST API
 
 AI-powered analysis using Google Gemini API
 
-Web data collection using DuckDuckGo Search
-
 Structured Markdown report generation
 
 JWT-based authentication
