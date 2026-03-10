@@ -1,4 +1,4 @@
-## TRADE-OPPORTUNITIES-API
+### TRADE-OPPORTUNITIES-API
 
 # Overview
 
@@ -27,3 +27,15 @@ Interactive API documentation via Swagger UI
 # System Architecture
 
 The project follows a modular architecture separating responsibilities across different components:
+
+API Layer : Handles incoming requests, authentication, and response formatting.
+
+Data Collection Layer : Fetches current market data and news related to the requested sector.
+
+AI Analysis Layer : Processes collected data using the Gemini API to generate a structured report.
+
+Security Layer : Includes - JWT Authentication, Input Validation, Rate Limiting
+
+## Installation & Setup
+
+Clone Repository : 
