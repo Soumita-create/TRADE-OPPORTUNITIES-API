@@ -42,8 +42,6 @@ Clone Repository : https://github.com/Soumita-create/TRADE-OPPORTUNITIES-API
 
 Install Dependencies : !pip install fastapi uvicorn pyngrok duckduckgo-search python-jose passlib python-multipart google-generativeai slowapi
 
-Configure Gemini API Key : GEMINI_API_KEY = "AIzaSyCUb-zUG86kn591nVUJvOe4glZVZ5eqpyE"
-
 Run the Server : http://localhost:8000/
 
 # Technologies Used
