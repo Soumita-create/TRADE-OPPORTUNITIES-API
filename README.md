@@ -38,4 +38,36 @@ Security Layer : Includes - JWT Authentication, Input Validation, Rate Limiting
 
 ## Installation & Setup
 
-Clone Repository : 
+Clone Repository : https://github.com/Soumita-create/TRADE-OPPORTUNITIES-API
+
+Install Dependencies : !pip install fastapi uvicorn pyngrok duckduckgo-search python-jose passlib python-multipart google-generativeai slowapi
+
+Configure Gemini API Key : GEMINI_API_KEY = "AIzaSyCUb-zUG86kn591nVUJvOe4glZVZ5eqpyE"
+
+Run the Server : http://localhost:8000/
+
+# Technologies Used
+
+FastAPI
+
+Python
+
+Google Gemini API
+
+DuckDuckGo Search
+
+SlowAPI (Rate Limiting)
+
+JWT Authentication
+
+# Future Improvements
+
+Add persistent database storage
+
+More advanced financial data sources
+
+Sector trend visualization
+
+Automated report scheduling
+
+Multi-sector comparison analysis
